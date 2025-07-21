@@ -74,16 +74,6 @@ This project performs **Sentiment Analysis** on movie reviews using IMDb's large
 
 ---
 
-## 🌐 Explainable AI (XAI)
-
-> *(From `Phase 4.ipynb`)*
-
-- Used **LIME (Local Interpretable Model-Agnostic Explanations)** to interpret why the model predicted a particular sentiment.
-- Visualized top influential words in prediction decisions.
-- Example: A negative review where “boring”, “waste”, and “predictable” were flagged as key contributors.
-
----
-
 ## 🚧 Challenges Faced
 
 - **Sarcasm:** e.g., “Sure, best movie ever... I slept halfway.”
