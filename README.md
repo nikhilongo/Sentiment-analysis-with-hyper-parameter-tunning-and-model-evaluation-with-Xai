@@ -93,12 +93,6 @@ This project performs **Sentiment Analysis** on movie reviews using IMDb's large
 ## 👥 Contributors
 
 - Nikhil Gupta
-  
----
-
-## 📄 License
-
-This project is academic in nature, submitted as part of the Data Mining course at CSBS, under the guidance of Dr. Jatin Bedi.
 
 ---
 
